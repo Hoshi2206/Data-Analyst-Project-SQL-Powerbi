@@ -24,7 +24,7 @@ The dataset mimics a real-world relational database structure across multiple co
 * **SQL:** Data extraction, multi-table joins, and data cleaning.
 * **Power BI:** Data modeling, DAX measures, and interactive visual reporting.
 
-<img width="1192" height="800" alt="image" src="https://github.com/user-attachments/assets/4e374ab0-3fe1-44de-9149-ba9de8207aee" />
+<img width="1170" height="803" alt="image" src="https://github.com/user-attachments/assets/f3d55078-aa1b-4355-a0fa-25c2576a95af" />
 
 ## How the Data is Connected (Data Model)
 
