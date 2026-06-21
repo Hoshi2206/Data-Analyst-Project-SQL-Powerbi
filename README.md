@@ -23,3 +23,17 @@ The dataset mimics a real-world relational database structure across multiple co
 ## Tools Used
 * **SQL:** Data extraction, multi-table joins, and data cleaning.
 * **Power BI:** Data modeling, DAX measures, and interactive visual reporting.
+
+<img width="1192" height="800" alt="image" src="https://github.com/user-attachments/assets/4e374ab0-3fe1-44de-9149-ba9de8207aee" />
+
+## How the Data is Connected (Data Model)
+
+Since this dataset has **over 6 million rows of sales data**, it would make Power BI slow. 
+Instead, I used the Model View in Power BI to link my tables together using their ID columns (like `ProductID`, `CustomerID`, and `CityID`). This keeps the file running fast and smooth.
+
+1. **The Main Sales Table (`grocery_sales sales_all`):** This is the heart of the project. It holds all the millions of individual shopping transactions, quantities, and discounts.
+2. **The Lookup Tables:** These tables hold the extra details. For example, the sales table connects to the **Products** table to find item names, and the products table connects to **Categories** to see what section they belong to. 
+
+Similarly, the sales table connects to the **Customer** tables, which then link down to **Cities** and **Countries** so we can track exactly where our shoppers live.
+
+
