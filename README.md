@@ -5,7 +5,7 @@ End-to-end relational big data analysis of a supermarket enterprise featuring ov
 
 <img width="1116" height="792" alt="image" src="https://github.com/user-attachments/assets/98a990aa-0854-4960-9532-d98e941d0170" />
 <img width="1113" height="792" alt="image" src="https://github.com/user-attachments/assets/ad5529c8-54ff-41e8-9761-996138fccaf6" />
-<img width="1074" height="764" alt="image" src="https://github.com/user-attachments/assets/93a9fa2a-6953-44f0-a495-c6e93773a6c0" />
+<img width="1072" height="767" alt="image" src="https://github.com/user-attachments/assets/216237f9-635d-4d73-b825-c1d05ac1094a" />
 
 ## Project Objective
 The goal of this project is to analyze a simulated supermarket enterprise database to uncover insights regarding store revenue, product performance, geographical trends, and employee sales velocity. By connecting transactional data with dimensional records, this dashboard provides actionable recommendations to optimize supermarket inventory, regional marketing, and staff management.
