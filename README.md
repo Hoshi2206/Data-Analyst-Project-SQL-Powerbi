@@ -11,6 +11,9 @@ End-to-end relational big data analysis of a supermarket enterprise featuring ov
 The goal of this project is to analyze a simulated supermarket enterprise database to uncover insights regarding store revenue, product performance, geographical trends, and employee sales velocity. By connecting transactional data with dimensional records, this dashboard provides actionable recommendations to optimize supermarket inventory, regional marketing, and staff management.
 
 ## Dataset Overview
+## Data Source
+The original relational database used for this analysis was sourced from the [Grocery Sales Database on Kaggle](https://www.kaggle.com/datasets/andrexibiza/grocery-sales-dataset) created by Andrex Ibiza, MBA.
+
 The dataset mimics a real-world relational database structure across multiple connected tables:
 * **`sales.csv` (Fact Table):** Logs every unique customer transaction from January 1, 2018, to May 9, 2018.
 * **`products.csv` & `categories.csv`:** Detailed inventory classifications and item categories.
