@@ -36,7 +36,7 @@ Instead, I used the Model View in Power BI to link my tables together using thei
 
 Similarly, the sales table connects to the **Customer** tables, which then link down to **Cities** and **Countries** so we can track exactly where our shoppers live.
 
-## 📊 Business Insights & Recommendations
+## Business Insights & Recommendations
 
 
 ### 1. Monthly Sales Performance
